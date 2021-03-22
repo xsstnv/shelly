@@ -9,8 +9,8 @@ const Pages = () => {
         <div className={classes.Content}>
             <Switch>
                 <Route exact path="/" component={Shells} key="index" />
-                <Route exact path="/shelly/shells" component={Shells} key="shells" />
-                <Route exact path="/shelly/msfvenom" component={Payloads} key="payloads" />
+                <Route exact path="/shells" component={Shells} key="shells" />
+                <Route exact path="/msfvenom" component={Payloads} key="payloads" />
             </Switch>
         </div>
     );
