@@ -51,7 +51,7 @@ const LayoutContent = props => {
                     <Content style={{ margin: '0 16px' }}>
                         <Pages />
                     </Content>
-                    <Footer style={{ textAlign: 'center' }}>Project maintained by <a href="https://github.com/hackerbyday/">hackerbyday</a></Footer>
+                    <Footer style={{ textAlign: 'center' }}>Project maintained by <a href="https://github.com/xsstnv/">xsstnv</a></Footer>
                 </Layout>
             </Layout>
         </React.Fragment>
