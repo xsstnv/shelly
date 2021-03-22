@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b1cdbfe.chunk.css",
-    "main.js": "/static/js/main.c1611cf9.chunk.js",
-    "main.js.map": "/static/js/main.c1611cf9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ef8bf72e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ef8bf72e.js.map",
-    "static/css/2.44309f2b.chunk.css": "/static/css/2.44309f2b.chunk.css",
-    "static/js/2.9b75529d.chunk.js": "/static/js/2.9b75529d.chunk.js",
-    "static/js/2.9b75529d.chunk.js.map": "/static/js/2.9b75529d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e7c7b264de7e9a7e25bcfc55ef744eaa.js": "/precache-manifest.e7c7b264de7e9a7e25bcfc55ef744eaa.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.44309f2b.chunk.css.map": "/static/css/2.44309f2b.chunk.css.map",
-    "static/css/main.2b1cdbfe.chunk.css.map": "/static/css/main.2b1cdbfe.chunk.css.map",
-    "static/js/2.9b75529d.chunk.js.LICENSE.txt": "/static/js/2.9b75529d.chunk.js.LICENSE.txt"
+    "main.css": "/shelly/static/css/main.2b1cdbfe.chunk.css",
+    "main.js": "/shelly/static/js/main.4275a26c.chunk.js",
+    "main.js.map": "/shelly/static/js/main.4275a26c.chunk.js.map",
+    "runtime-main.js": "/shelly/static/js/runtime-main.11ac7a3d.js",
+    "runtime-main.js.map": "/shelly/static/js/runtime-main.11ac7a3d.js.map",
+    "static/css/2.44309f2b.chunk.css": "/shelly/static/css/2.44309f2b.chunk.css",
+    "static/js/2.9b75529d.chunk.js": "/shelly/static/js/2.9b75529d.chunk.js",
+    "static/js/2.9b75529d.chunk.js.map": "/shelly/static/js/2.9b75529d.chunk.js.map",
+    "index.html": "/shelly/index.html",
+    "precache-manifest.5e42c663be75b3bf29958faed2f4bd7b.js": "/shelly/precache-manifest.5e42c663be75b3bf29958faed2f4bd7b.js",
+    "service-worker.js": "/shelly/service-worker.js",
+    "static/css/2.44309f2b.chunk.css.map": "/shelly/static/css/2.44309f2b.chunk.css.map",
+    "static/css/main.2b1cdbfe.chunk.css.map": "/shelly/static/css/main.2b1cdbfe.chunk.css.map",
+    "static/js/2.9b75529d.chunk.js.LICENSE.txt": "/shelly/static/js/2.9b75529d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef8bf72e.js",
+    "static/js/runtime-main.11ac7a3d.js",
     "static/css/2.44309f2b.chunk.css",
     "static/js/2.9b75529d.chunk.js",
     "static/css/main.2b1cdbfe.chunk.css",
-    "static/js/main.c1611cf9.chunk.js"
+    "static/js/main.4275a26c.chunk.js"
   ]
 }
