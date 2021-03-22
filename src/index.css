@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-size: small;
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+/* Ant design overrides */
+
+.ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background-color: #15395b;
+}
+
+.site-layout .site-layout-background {
+  background: #112a45;
+}
+
+/* Scrollbar design */
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 7px;
+  background-color: #15395b;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #15395b;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+  background-color: #15395b;
+}  
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #15395b;
+} 
+
+::-webkit-scrollbar-thumb:horizontal:hover {
+  background-color: #15395b;
+} 
+
+body::-webkit-scrollbar-track {
+  background: #111d2c;
+}
+
+::-webkit-scrollbar-track:horizontal, ::-webkit-scrollbar-track {
+  background-color: #112a45;
+}

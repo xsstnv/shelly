@@ -1,0 +1,19 @@
+.Block {
+    padding: 25px 25px 5px 25px;
+    width: 100%;
+    height: auto;
+    overflow: scroll;
+    background-color: #111d2c;
+    color: lightsteelblue;
+    /* font-size: large; */
+}
+
+.Code {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 660px) {
+    .Block {
+        width: 85%;
+    }
+}
