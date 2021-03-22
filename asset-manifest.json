@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shelly/static/css/main.2b1cdbfe.chunk.css",
-    "main.js": "/shelly/static/js/main.4275a26c.chunk.js",
-    "main.js.map": "/shelly/static/js/main.4275a26c.chunk.js.map",
+    "main.js": "/shelly/static/js/main.f3addc77.chunk.js",
+    "main.js.map": "/shelly/static/js/main.f3addc77.chunk.js.map",
     "runtime-main.js": "/shelly/static/js/runtime-main.11ac7a3d.js",
     "runtime-main.js.map": "/shelly/static/js/runtime-main.11ac7a3d.js.map",
     "static/css/2.44309f2b.chunk.css": "/shelly/static/css/2.44309f2b.chunk.css",
     "static/js/2.9b75529d.chunk.js": "/shelly/static/js/2.9b75529d.chunk.js",
     "static/js/2.9b75529d.chunk.js.map": "/shelly/static/js/2.9b75529d.chunk.js.map",
     "index.html": "/shelly/index.html",
-    "precache-manifest.5e42c663be75b3bf29958faed2f4bd7b.js": "/shelly/precache-manifest.5e42c663be75b3bf29958faed2f4bd7b.js",
+    "precache-manifest.7c3698ded00e896ae4389168cf6be678.js": "/shelly/precache-manifest.7c3698ded00e896ae4389168cf6be678.js",
     "service-worker.js": "/shelly/service-worker.js",
     "static/css/2.44309f2b.chunk.css.map": "/shelly/static/css/2.44309f2b.chunk.css.map",
     "static/css/main.2b1cdbfe.chunk.css.map": "/shelly/static/css/main.2b1cdbfe.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.44309f2b.chunk.css",
     "static/js/2.9b75529d.chunk.js",
     "static/css/main.2b1cdbfe.chunk.css",
-    "static/js/main.4275a26c.chunk.js"
+    "static/js/main.f3addc77.chunk.js"
   ]
 }
